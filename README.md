@@ -1,13 +1,36 @@
 # firm_cache
 firmware cache from DJI Assistant.app 
 
-Time to track individual .sig files...
+Time to track individual .cfg.sig 
+MD5 (V01.00.0300_Spark_dji_system/wm100a.cfg.sig) = 0cf4d32c2cad2818a3daf4fe8ef4b554
+MD5 (V01.00.0330_I2_dji_system/01.00.0330.cfg.sig) = 994836302ec9679a5519144d927e0712
+MD5 (V01.00.0400_Spark_dji_system/wm100a.cfg.sig) = 89acae2e291ebd0d4d57fbc4e9d4a0b0
+MD5 (V01.01.0010_I2_dji_system/wm620.cfg.sig) = e3b656cb06682e0ee7e1636b0adcf569
+MD5 (V01.02.0602_P4_dji_system/wm330.cfg.sig) = 00dbe5966e3d5d97860aa3ad2251b85a
+MD5 (V01.03.0200_Mavic_dji_system/wm220.cfg.sig) = 9a0e3cc7b2cddc18db2c10cd18b5c07b
+MD5 (V01.03.0200_RC_Mavic_dji_system/wm220_rc.cfg.sig) = 9a0e3cc7b2cddc18db2c10cd18b5c07b
+MD5 (V01.03.0400_Mavic_dji_system/wm220.cfg.sig) = 545c830c4b073efe667c664d0e169988
+MD5 (V01.03.0400_RC_Mavic_dji_system/wm220_rc.cfg.sig) = 545c830c4b073efe667c664d0e169988
+MD5 (V01.03.0500_Mavic_dji_system/01.03.0500.cfg.sig) = ad291d8a3bb74b8c3cb09d2d7fb83277
+MD5 (V01.03.0509_P4P_dji_system/wm331_ac_fw_v01-03-0509.cfg.sig) = ad7ebd830435dfd1c2cb09c66bc9b019
+MD5 (V01.03.0550_Mavic_dji_system/wm220.cfg.sig) = 1e6263009dee150d62b53c292bcf8ea4
+MD5 (V01.03.0550_RC_Mavic_dji_system/wm220_rc.cfg.sig) = 1e6263009dee150d62b53c292bcf8ea4
+MD5 (V01.03.0600_Mavic_dji_system/wm220.cfg.sig) = 8289a6d410b542f6c41a08bcfe8473aa
+MD5 (V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig) = 8289a6d410b542f6c41a08bcfe8473aa
+MD5 (V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig) = 072e68d8ebbcdebbcee86b73a9f0bbd8
+MD5 (V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig) = 072e68d8ebbcdebbcee86b73a9f0bbd8
+MD5 (V01.03.0700_Mavic_dji_system/wm220.cfg.sig) = 072e68d8ebbcdebbcee86b73a9f0bbd8
+MD5 (V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig) = 072e68d8ebbcdebbcee86b73a9f0bbd8
+MD5 (V01.03.0800_Goggles_dji_system/wm220_gl.cfg.sig) = e7baba1ce03a2c3d9ee146006840bc8c
+MD5 (V01.03.0800_Mavic_dji_system/wm220.cfg.sig) = e7baba1ce03a2c3d9ee146006840bc8c
+MD5 (V01.03.0800_RC_Mavic_dji_system/wm220_rc.cfg.sig) = e7baba1ce03a2c3d9ee146006840bc8c
+MD5 (V01.03.0900_Goggles_dji_system/wm220_gl.cfg.sig) = efe50ff0ad3d5eb49dc2691cd066fe0e
+MD5 (V01.03.0900_Mavic_dji_system/wm220.cfg.sig) = efe50ff0ad3d5eb49dc2691cd066fe0e
+MD5 (V01.03.0900_RC_Mavic_dji_system/wm220_rc.cfg.sig) = efe50ff0ad3d5eb49dc2691cd066fe0e
+MD5 (V01.04.0602_P4P_dji_system/wm331.cfg.sig) = ad7ebd830435dfd1c2cb09c66bc9b019
+MD5 (V02.00.0106_P4_dji_system/wm330.cfg.sig) = 77f7fc7d413b7574cbe86571f8a766b6
 
-MD5 (01.00.0330.cfg.sig) = 994836302ec9679a5519144d927e0712
-MD5 (01.03.0500.cfg.sig) = ad291d8a3bb74b8c3cb09d2d7fb83277
-MD5 (README.md) = 10c1754a57a9694c59ba1429fb657e73
-MD5 (nfz.db) = d87136d60cd0936894ab8bcacc89a8ff
-MD5 (nfz.sig) = 6368dc7801db9c267f2b8e4eb8f6d112
+and normal fw.sig files...
 MD5 (wm100_0305_v34.11.00.21_20161010.pro.fw.sig) = ae7b12a944e67add75cd2c4d3d24624d
 MD5 (wm100_0306_v03.02.34.25_20170527.pro.fw.sig) = 8b3a583c4728e8f882b4f292a1c8b1a2
 MD5 (wm100_0306_v03.02.37.20_20170615.pro.fw.sig) = 65f55c9eb416e57ba5f1904fd5b91e4c
@@ -26,8 +49,6 @@ MD5 (wm100_1200_v01.09.00.00_20170428.pro.fw.sig) = 277d7dd372906f1533206c47a290
 MD5 (wm100_1201_v01.09.00.00_20170428.pro.fw.sig) = 6170a30864186a9430d00269f34ae3f9
 MD5 (wm100_1202_v01.09.00.00_20170428.pro.fw.sig) = 63cb1cd05d4a3ddb5c75c3dbc3f4c06c
 MD5 (wm100_1203_v01.09.00.00_20170428.pro.fw.sig) = 3033d05d839ce0acd0f70c7c3fed9f1d
-MD5 (wm100a.cfg.sig) = 89acae2e291ebd0d4d57fbc4e9d4a0b0
-MD5 (wm220.cfg.sig) = 072e68d8ebbcdebbcee86b73a9f0bbd8
 MD5 (wm220_0000_v01.03.0700_20170505.pro.cfg.sig) = 072e68d8ebbcdebbcee86b73a9f0bbd8
 MD5 (wm220_0100_v02.00.55.69_20161215.pro.fw.sig) = 8f72ba727e89e3a7186e4a35561790a5
 MD5 (wm220_0100_v02.01.55.93_20170120.pro.fw.sig) = 620c22872b9ab773c66c2be1626568ea
@@ -131,9 +152,6 @@ MD5 (wm220_2807_v47.26.02.11_20170419.pro.fw.sig) = ff1d46406a8fe3df3b1a6a09aa10
 MD5 (wm220_2807_v47.26.02.12_20170519.pro.fw.sig) = 50133f9f07d1fe63a386c6b76197f31f
 MD5 (wm220_2807_v47.26.02.14_20170613.pro.fw.sig) = 28e0226b0c8caa49a5a9c6b24848563e
 MD5 (wm220_ac_fw_v01-03-0200.cfg.sig) = 9a0e3cc7b2cddc18db2c10cd18b5c07b
-MD5 (wm220_gl.cfg.sig) = efe50ff0ad3d5eb49dc2691cd066fe0e
-MD5 (wm220_rc.cfg.sig) = efe50ff0ad3d5eb49dc2691cd066fe0e
-MD5 (wm330.cfg.sig) = 77f7fc7d413b7574cbe86571f8a766b6
 MD5 (wm330_0100_v01.19.52.66_20160623.fw.sig) = 0429684f341431632970dcadf8369f25
 MD5 (wm330_0101_v01.16.51.96_20160519.fw.sig) = 676525776b3653e0b8dd93cbd623ca23
 MD5 (wm330_0305_v34.04.00.17_20160114.fw.sig) = ce61f47940d56a6e59e2bc731ba22160
@@ -162,7 +180,6 @@ MD5 (wm330_1202_v01.06.00.00_20160516.fw.sig) = 72da5b03459c3dfc74146b248c780e4b
 MD5 (wm330_1202_v01.08.00.07_20160913.pro.fw.sig) = e81c78d8643e5e58d0883c828ccbe077
 MD5 (wm330_1203_v01.06.00.00_20160516.fw.sig) = f00a5d40abcedb47f80a5e47f0a10a2d
 MD5 (wm330_1203_v01.08.00.07_20160913.pro.fw.sig) = 0cc1acdf87bde980ad37385f2bcafe55
-MD5 (wm331.cfg.sig) = ad7ebd830435dfd1c2cb09c66bc9b019
 MD5 (wm331_0100_v01.04.15.46_20170317.pro.fw.sig) = 587827190524bd719e72c1dcaa225a00
 MD5 (wm331_0104_v00.09.01.85_20161221.pro.fw.sig) = 9f4899193e67354680c1aae202271bca
 MD5 (wm331_0306_v03.02.30.13_20170405.pro.fw.sig) = 909d4fdd2ccacf9e711a73f01c3b4fcf
@@ -185,8 +202,6 @@ MD5 (wm331_1200_v01.08.00.07_20160914.pro.fw.sig) = 6ba4a754e3d05d5c61e6138bc951
 MD5 (wm331_1201_v01.08.00.07_20160914.pro.fw.sig) = ca6dc7e1fd0158cad85c7631f135a7a2
 MD5 (wm331_1202_v01.08.00.07_20160914.pro.fw.sig) = 766b0755a1ed1160538d31b5420f3217
 MD5 (wm331_1203_v01.08.00.07_20160914.pro.fw.sig) = 9f4aef64c6d94eda0f1b718cdd80351e
-MD5 (wm331_ac_fw_v01-03-0509.cfg.sig) = ad7ebd830435dfd1c2cb09c66bc9b019
-MD5 (wm620.cfg.sig) = e3b656cb06682e0ee7e1636b0adcf569
 MD5 (wm620_0100_v01.02.15.04_20170208.pro.fw.sig) = 82da811788314b0bd3152df243cab344
 MD5 (wm620_0100_v01.06.15.82_20170619.pro.fw.sig) = 6f503a3a4917a9a604d3239f917a7bd0
 MD5 (wm620_0104_v00.09.01.85_20161221_ln02.pro.fw.sig) = e1b335e74a6b14e1d3aca5398ba12056
