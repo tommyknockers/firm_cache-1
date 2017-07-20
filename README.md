@@ -1,7 +1,10 @@
 # firm_cache
 firmware cache from DJI Assistant.app 
+as extracted from dji_system.bin files, and collected by end users. 
+Accompanying .bin files can be located here: https://github.com/MAVProxyUser/dji_system.bin
 
 Time to track individual .cfg.sig 
+```
 MD5 (V01.00.0300_Spark_dji_system/wm100a.cfg.sig) = 0cf4d32c2cad2818a3daf4fe8ef4b554
 MD5 (V01.00.0330_I2_dji_system/01.00.0330.cfg.sig) = 994836302ec9679a5519144d927e0712
 MD5 (V01.00.0400_Spark_dji_system/wm100a.cfg.sig) = 89acae2e291ebd0d4d57fbc4e9d4a0b0
@@ -29,8 +32,9 @@ MD5 (V01.03.0900_Mavic_dji_system/wm220.cfg.sig) = efe50ff0ad3d5eb49dc2691cd066f
 MD5 (V01.03.0900_RC_Mavic_dji_system/wm220_rc.cfg.sig) = efe50ff0ad3d5eb49dc2691cd066fe0e
 MD5 (V01.04.0602_P4P_dji_system/wm331.cfg.sig) = ad7ebd830435dfd1c2cb09c66bc9b019
 MD5 (V02.00.0106_P4_dji_system/wm330.cfg.sig) = 77f7fc7d413b7574cbe86571f8a766b6
-
+```
 and normal fw.sig files...
+```
 MD5 (wm100_0305_v34.11.00.21_20161010.pro.fw.sig) = ae7b12a944e67add75cd2c4d3d24624d
 MD5 (wm100_0306_v03.02.34.25_20170527.pro.fw.sig) = 8b3a583c4728e8f882b4f292a1c8b1a2
 MD5 (wm100_0306_v03.02.37.20_20170615.pro.fw.sig) = 65f55c9eb416e57ba5f1904fd5b91e4c
@@ -242,4 +246,4 @@ MD5 (wm620_1200_v01.02.00.46_20160918.pro.fw.sig) = 91cef3114e5e01195ee493358a66
 MD5 (wm620_1201_v01.02.00.46_20160918.pro.fw.sig) = f3c309a0b3fa0c21e06760058abdfd30
 MD5 (wm620_1202_v01.02.00.46_20160918.pro.fw.sig) = 7724e4f5b8015d6e7ead4ca063f60b1e
 MD5 (wm620_1203_v01.02.00.46_20160918.pro.fw.sig) = 2a16823283b4921d84030c94599eef4d
-
+```
