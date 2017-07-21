@@ -34,6 +34,8 @@ MD5 (V01.03.0900_Mavic_dji_system/wm220.cfg.sig) = efe50ff0ad3d5eb49dc2691cd066f
 MD5 (V01.03.0900_RC_Mavic_dji_system/wm220_rc.cfg.sig) = efe50ff0ad3d5eb49dc2691cd066fe0e
 MD5 (V01.04.0602_P4P_dji_system/wm331.cfg.sig) = ad7ebd830435dfd1c2cb09c66bc9b019
 MD5 (V02.00.0106_P4_dji_system/wm330.cfg.sig) = 77f7fc7d413b7574cbe86571f8a766b6
+MD5 (V01.00.0100_Spark_unknown/rc002.cfg) = 0c4e8d7ae113e94a761955abaa803515
+
 ```
 and normal fw.sig files...
 ```
