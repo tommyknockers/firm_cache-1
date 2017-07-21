@@ -1,3 +1,11 @@
+# model numbers
+wm100 -> Spark
+wm220 -> Mavic
+wm330 -> P4
+wm331 -> P4P
+wm620 -> Inspire 2
+wm220_gl -> Googles
+
 # type
 "ca02"
 "cd01"
