@@ -1384,8 +1384,6 @@ MD5 (wm330_1203_v01.08.00.07_20160913.pro.fw.sig) = 0cc1acdf87bde980ad37385f2bca
 Binary file V02.00.0106_P4_dji_system/wm330.cfg.sig matches
                 <module id="1203" version="01.08.00.07" type="" group="" size="20480" md5="0cc1acdf87bde980ad37385f2bcafe55">wm330_1203_v01.08.00.07_20160913.pro.fw.sig</module>
 ---------
-MD5 (wm331.cfg.sig) = ad7ebd830435dfd1c2cb09c66bc9b019
----------
 MD5 (wm331_0100_v01.04.15.46_20170317.pro.fw.sig) = 587827190524bd719e72c1dcaa225a00
 Binary file V01.03.0509_P4P_dji_system/wm331_ac_fw_v01-03-0509.cfg.sig matches
 Binary file V01.04.0602_P4P_dji_system/wm331.cfg.sig matches
