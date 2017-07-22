@@ -1,5 +1,18 @@
 # model numbers
-puts("wm100 -> Spark\nwm220 -> Mavic\nwm330 -> P4\nwm331 -> P4P\nwm620 -> Inspire 2\nwm220_gl -> Googles\n")
+
+models = Hash.new()
+models['wm100'] =    'Spark'
+models['wm220'] =    'Mavic'
+models['wm220_gl'] = 'Goggles' 
+models['wm330'] =    'P4'
+models['wm331'] =    'P4P'
+models['wm620'] =    'Inspire2'
+
+# Use for-loop on keys.
+for key in models.keys()
+    print key, "->", models[key], "\n"
+end
+
 print "Enter your drone: "
 
 #name = gets
