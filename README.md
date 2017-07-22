@@ -22,7 +22,6 @@ MD5 (V01.03.0550_Mavic_dji_system/wm220.cfg.sig) = 1e6263009dee150d62b53c292bcf8
 MD5 (V01.03.0550_RC_Mavic_dji_system/wm220_rc.cfg.sig) = 1e6263009dee150d62b53c292bcf8ea4
 MD5 (V01.03.0600_Mavic_dji_system/wm220.cfg.sig) = 8289a6d410b542f6c41a08bcfe8473aa
 MD5 (V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig) = 8289a6d410b542f6c41a08bcfe8473aa
-MD5 (V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig) = 072e68d8ebbcdebbcee86b73a9f0bbd8
 MD5 (V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig) = 072e68d8ebbcdebbcee86b73a9f0bbd8
 MD5 (V01.03.0700_Mavic_dji_system/wm220.cfg.sig) = 072e68d8ebbcdebbcee86b73a9f0bbd8
 MD5 (V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig) = 072e68d8ebbcdebbcee86b73a9f0bbd8
