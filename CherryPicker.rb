@@ -7,28 +7,38 @@ models['wm220_gl'] = 'Goggles'
 models['wm330'] =    'P4'
 models['wm331'] =    'P4P'
 models['wm620'] =    'Inspire2'
+name = ""
 
-# Use for-loop on keys.
-for key in models.keys()
-    print key, "->", models[key], "\n"
-end
-
-print "Enter your drone: "
-
-#name = gets
-name = "wm100"
-puts name 
-
-Dir.glob("*.fw.sig") {|file|
-    if file.include?(name)
-        puts file
+if ARGV[0] == nil
+    # Use for-loop on keys.
+    for key in models.keys()
+        puts "#{key} -> #{models[key]}"
     end
 
-} 
-p "-------------------------"
+    puts "Enter your drone: "
+    name = gets.chomp
+    puts "Using drone type: #{name}"
+else
+    puts "Using drone type: #{ARGV[0]}"
+    name = ARGV[0]
+end
+
+puts "Name is: #{name}"
+
+# Seek in 480 bytes and look for XML header 
+# 000001e0: 3c3f 786d 6c20 7665 7273 696f 6e3d 2231  <?xml version="1
 Dir.glob("V*/*.cfg.sig") {|file|
-  puts file
+    if file.include?(models[name])
+        puts file
+    end
 }
+
+#puts "---------------------------------------------------"
+#Dir.glob("*.fw.sig") {|file|
+#    if file.include?(name)
+#        puts file
+#    end
+#} 
 
 
 # type
