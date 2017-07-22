@@ -53,12 +53,8 @@ puts "Using config file: #{cfg}"
 
 # Seek in 480 bytes and look for XML header 
 # 000001e0: 3c3f 786d 6c20 7665 7273 696f 6e3d 2231  <?xml version="1
-config_sig = File.readlines("#{cfg}")[0..-1]
-config_sig.shift # Drop the signature header 
-config_sig.pop # Drop tailing 0's
-#puts config_sig
-
-p Hash.from_xml(config_sig)
+config_sig = File.read("#{cfg}")
+puts config_sig[480..-24]
 
 #puts "---------------------------------------------------"
 #Dir.glob("*.fw.sig") {|file|
