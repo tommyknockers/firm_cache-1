@@ -83,17 +83,10 @@ doc = Nokogiri::XML(config_sig[480..-24])
 #    </device>
 #</dji>
 
-doc.xpath('/dji/device/firmware/release').each do  |firmware_element|
+doc.xpath('/dji/device/firmware/release/module').each do  |firmware_element|
+    puts firmware_element
+#    puts firmware_element.attr('version')
 
-puts firmware_element
-
-#  puts "\nShow Name : "+firmware_element.xpath('name').text
-#  count=1
-#  sitcom_element.xpath('characters/character').each do
-#    |character_element|
-#    puts "    #{count}.Charachter : " + character_element.text
-#    count=count+1
-#  end
 end
 
 
