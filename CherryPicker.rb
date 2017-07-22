@@ -4,6 +4,7 @@ models = Hash.new()
 models['wm100'] =    'Spark'
 models['wm220'] =    'Mavic'
 models['wm220_gl'] = 'Goggles' 
+models['GL200A'] =   'GL200A' # Mavic Controller
 models['wm330'] =    'P4'
 models['wm331'] =    'P4P'
 models['wm620'] =    'Inspire2'
@@ -27,9 +28,10 @@ puts "Name is: #{name}"
 
 # Seek in 480 bytes and look for XML header 
 # 000001e0: 3c3f 786d 6c20 7665 7273 696f 6e3d 2231  <?xml version="1
+puts "Available firmware versions:"
 Dir.glob("V*/*.cfg.sig") {|file|
     if file.include?(models[name])
-        puts file
+        puts "- #{file.split('_')[0]}"
     end
 }
 
