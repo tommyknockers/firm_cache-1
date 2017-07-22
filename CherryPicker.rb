@@ -1,6 +1,9 @@
 #!/usr/bin/ruby
-# model numbers
+# gem install nokogiri  -v '1.6.7.2' -- --with-xml2-include=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/include/libxml2 --use-system-libraries 
+# 
+require 'nokogiri'
 
+# model numbers
 models = Hash.new()
 models['wm100'] =    'Spark'
 models['wm220'] =    'Mavic'
