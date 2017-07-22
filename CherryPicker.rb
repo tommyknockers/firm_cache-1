@@ -10,6 +10,7 @@ models['wm331'] =    'P4P'
 models['wm620'] =    'Inspire2'
 name = ""
 firmware = ""
+cfg = ""
 
 if ARGV[0] == nil
     # Use for-loop on keys.
@@ -42,8 +43,19 @@ else
     firmware = ARGV[1]
 end
 
+# This should only be one file
+Dir.glob("#{firmware}_#{models[name]}_dji_system/*.cfg.sig") {|file| 
+    cfg = "#{file}"
+}
+
+puts "Using config file: #{cfg}"
+
 # Seek in 480 bytes and look for XML header 
 # 000001e0: 3c3f 786d 6c20 7665 7273 696f 6e3d 2231  <?xml version="1
+config_sig = File.readlines("#{cfg}")[0..-1]
+config_sig.shift # Drop the signature header 
+config_sig.pop # Drop tailing 0's
+puts config_sig
 
 #puts "---------------------------------------------------"
 #Dir.glob("*.fw.sig") {|file|
