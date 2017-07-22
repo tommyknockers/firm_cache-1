@@ -108,10 +108,8 @@ MD5 (wm220_0100_v02.02.56.29_20170317.pro.fw.sig) = 314644f86b5ecd475c7a0c570693
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0100" version="02.02.56.29" type="" group="ac" size="15180832" md5="314644f86b5ecd475c7a0c570693256b">wm220_0100_v02.02.56.29_20170317.pro.fw.sig</module>
                 <module id="0100" version="02.02.56.29" type="" group="ac" size="15180832" md5="314644f86b5ecd475c7a0c570693256b">wm220_0100_v02.02.56.29_20170317.pro.fw.sig</module>
                 <module id="0100" version="02.02.56.29" type="" group="ac" size="15180832" md5="314644f86b5ecd475c7a0c570693256b">wm220_0100_v02.02.56.29_20170317.pro.fw.sig</module>
                 <module id="0100" version="02.02.56.29" type="" group="ac" size="15180832" md5="314644f86b5ecd475c7a0c570693256b">wm220_0100_v02.02.56.29_20170317.pro.fw.sig</module>
@@ -156,10 +154,8 @@ MD5 (wm220_0100_v02.06.04.84_20170324_ca02.pro.fw.sig) = c0fb136c054e9105cff3f0c
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0100" version="02.06.04.84" type="ca02" group="ac" size="37489024" md5="c0fb136c054e9105cff3f0cfc2b4c740">wm220_0100_v02.06.04.84_20170324_ca02.pro.fw.sig</module>
                 <module id="0100" version="02.06.04.84" type="ca02" group="ac" size="37489024" md5="c0fb136c054e9105cff3f0cfc2b4c740">wm220_0100_v02.06.04.84_20170324_ca02.pro.fw.sig</module>
                 <module id="0100" version="02.06.04.84" type="ca02" group="ac" size="37489024" md5="c0fb136c054e9105cff3f0cfc2b4c740">wm220_0100_v02.06.04.84_20170324_ca02.pro.fw.sig</module>
                 <module id="0100" version="02.06.04.84" type="ca02" group="ac" size="37489024" md5="c0fb136c054e9105cff3f0cfc2b4c740">wm220_0100_v02.06.04.84_20170324_ca02.pro.fw.sig</module>
@@ -206,10 +202,8 @@ MD5 (wm220_0101_v02.02.56.29_20170317.pro.fw.sig) = 4c877d5b5c7e90ac70bd7873dfb3
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0101" version="02.02.56.29" type="" group="ac" size="196544" md5="4c877d5b5c7e90ac70bd7873dfb31395">wm220_0101_v02.02.56.29_20170317.pro.fw.sig</module>
                 <module id="0101" version="02.02.56.29" type="" group="ac" size="196544" md5="4c877d5b5c7e90ac70bd7873dfb31395">wm220_0101_v02.02.56.29_20170317.pro.fw.sig</module>
                 <module id="0101" version="02.02.56.29" type="" group="ac" size="196544" md5="4c877d5b5c7e90ac70bd7873dfb31395">wm220_0101_v02.02.56.29_20170317.pro.fw.sig</module>
                 <module id="0101" version="02.02.56.29" type="" group="ac" size="196544" md5="4c877d5b5c7e90ac70bd7873dfb31395">wm220_0101_v02.02.56.29_20170317.pro.fw.sig</module>
@@ -254,10 +248,8 @@ MD5 (wm220_0101_v02.06.04.84_20170324_ca02.pro.fw.sig) = 6e829f457d00ab3dee6c092
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0101" version="02.06.04.84" type="ca02" group="ac" size="60128" md5="6e829f457d00ab3dee6c092ca4e796c7">wm220_0101_v02.06.04.84_20170324_ca02.pro.fw.sig</module>
                 <module id="0101" version="02.06.04.84" type="ca02" group="ac" size="60128" md5="6e829f457d00ab3dee6c092ca4e796c7">wm220_0101_v02.06.04.84_20170324_ca02.pro.fw.sig</module>
                 <module id="0101" version="02.06.04.84" type="ca02" group="ac" size="60128" md5="6e829f457d00ab3dee6c092ca4e796c7">wm220_0101_v02.06.04.84_20170324_ca02.pro.fw.sig</module>
                 <module id="0101" version="02.06.04.84" type="ca02" group="ac" size="60128" md5="6e829f457d00ab3dee6c092ca4e796c7">wm220_0101_v02.06.04.84_20170324_ca02.pro.fw.sig</module>
@@ -291,7 +283,6 @@ Binary file V01.03.0550_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0800_Goggles_dji_system/wm220_gl.cfg.sig matches
@@ -300,7 +291,6 @@ Binary file V01.03.0800_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0900_Goggles_dji_system/wm220_gl.cfg.sig matches
 Binary file V01.03.0900_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0900_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0305" version="34.04.00.23" type="" group="ac" size="55072" md5="c6fabddc843a0d9e6a6dd8f3c367add4">wm220_0305_v34.04.00.23_20161122.pro.fw.sig</module>
                 <module id="0305" version="34.04.00.23" type="" group="ac" size="55072" md5="c6fabddc843a0d9e6a6dd8f3c367add4">wm220_0305_v34.04.00.23_20161122.pro.fw.sig</module>
                 <module id="0305" version="34.04.00.23" type="" group="ac" size="55072" md5="c6fabddc843a0d9e6a6dd8f3c367add4">wm220_0305_v34.04.00.23_20161122.pro.fw.sig</module>
                 <module id="0305" version="34.04.00.23" type="" group="ac" size="55072" md5="c6fabddc843a0d9e6a6dd8f3c367add4">wm220_0305_v34.04.00.23_20161122.pro.fw.sig</module>
@@ -346,10 +336,8 @@ MD5 (wm220_0306_v03.02.30.13_20170405.pro.fw.sig) = 61df5e5a394c00cc50e04044597b
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0306" version="03.02.30.13" type="" group="ac" size="1537056" md5="61df5e5a394c00cc50e04044597ba22d">wm220_0306_v03.02.30.13_20170405.pro.fw.sig</module>
                 <module id="0306" version="03.02.30.13" type="" group="ac" size="1537056" md5="61df5e5a394c00cc50e04044597ba22d">wm220_0306_v03.02.30.13_20170405.pro.fw.sig</module>
                 <module id="0306" version="03.02.30.13" type="" group="ac" size="1537056" md5="61df5e5a394c00cc50e04044597ba22d">wm220_0306_v03.02.30.13_20170405.pro.fw.sig</module>
                 <module id="0306" version="03.02.30.13" type="" group="ac" size="1537056" md5="61df5e5a394c00cc50e04044597ba22d">wm220_0306_v03.02.30.13_20170405.pro.fw.sig</module>
@@ -398,10 +386,8 @@ Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 ---------
 MD5 (wm220_0400_v01.50.12.01_20170414.pro.fw.sig) = ee50707d32802cb540a6ade646f1ee35
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0400" version="01.50.12.01" type="" group="ac" size="91584" md5="ee50707d32802cb540a6ade646f1ee35">wm220_0400_v01.50.12.01_20170414.pro.fw.sig</module>
                 <module id="0400" version="01.50.12.01" type="" group="ac" size="91584" md5="ee50707d32802cb540a6ade646f1ee35">wm220_0400_v01.50.12.01_20170414.pro.fw.sig</module>
                 <module id="0400" version="01.50.12.01" type="" group="ac" size="91584" md5="ee50707d32802cb540a6ade646f1ee35">wm220_0400_v01.50.12.01_20170414.pro.fw.sig</module>
                 <module id="0400" version="01.50.12.01" type="" group="ac" size="91584" md5="ee50707d32802cb540a6ade646f1ee35">wm220_0400_v01.50.12.01_20170414.pro.fw.sig</module>
@@ -431,7 +417,6 @@ Binary file V01.03.0550_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0800_Goggles_dji_system/wm220_gl.cfg.sig matches
@@ -440,7 +425,6 @@ Binary file V01.03.0800_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0900_Goggles_dji_system/wm220_gl.cfg.sig matches
 Binary file V01.03.0900_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0900_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0600" version="00.00.01.27" type="" group="rc" size="38944" md5="2f80ec7ebe0c7b02f356f15471e14bea">wm220_0600_v00.00.01.27_20161017.pro.fw.sig</module>
                 <module id="0600" version="00.00.01.27" type="" group="rc" size="38944" md5="2f80ec7ebe0c7b02f356f15471e14bea">wm220_0600_v00.00.01.27_20161017.pro.fw.sig</module>
                 <module id="0600" version="00.00.01.27" type="" group="rc" size="38944" md5="2f80ec7ebe0c7b02f356f15471e14bea">wm220_0600_v00.00.01.27_20161017.pro.fw.sig</module>
                 <module id="0600" version="00.00.01.27" type="" group="rc" size="38944" md5="2f80ec7ebe0c7b02f356f15471e14bea">wm220_0600_v00.00.01.27_20161017.pro.fw.sig</module>
@@ -464,13 +448,11 @@ MD5 (wm220_0601_v00.00.03.04_20170329.pro.fw.sig) = 31d9ba179ac8c8f22b5e7079258b
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0800_Goggles_dji_system/wm220_gl.cfg.sig matches
 Binary file V01.03.0800_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0800_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0601" version="00.00.03.04" type="" group="gl" size="22176" md5="31d9ba179ac8c8f22b5e7079258bbfc0">wm220_0601_v00.00.03.04_20170329.pro.fw.sig</module>
                 <module id="0601" version="00.00.03.04" type="" group="gl" size="22176" md5="31d9ba179ac8c8f22b5e7079258bbfc0">wm220_0601_v00.00.03.04_20170329.pro.fw.sig</module>
                 <module id="0601" version="00.00.03.04" type="" group="gl" size="22176" md5="31d9ba179ac8c8f22b5e7079258bbfc0">wm220_0601_v00.00.03.04_20170329.pro.fw.sig</module>
                 <module id="0601" version="00.00.03.04" type="" group="gl" size="22176" md5="31d9ba179ac8c8f22b5e7079258bbfc0">wm220_0601_v00.00.03.04_20170329.pro.fw.sig</module>
@@ -492,13 +474,11 @@ MD5 (wm220_0603_v00.00.06.07_20170314.pro.fw.sig) = afe9d32ba93a118a3fefbb2ce4b3
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0800_Goggles_dji_system/wm220_gl.cfg.sig matches
 Binary file V01.03.0800_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0800_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0603" version="00.00.06.07" type="" group="gl" size="19872" md5="afe9d32ba93a118a3fefbb2ce4b3850a">wm220_0603_v00.00.06.07_20170314.pro.fw.sig</module>
                 <module id="0603" version="00.00.06.07" type="" group="gl" size="19872" md5="afe9d32ba93a118a3fefbb2ce4b3850a">wm220_0603_v00.00.06.07_20170314.pro.fw.sig</module>
                 <module id="0603" version="00.00.06.07" type="" group="gl" size="19872" md5="afe9d32ba93a118a3fefbb2ce4b3850a">wm220_0603_v00.00.06.07_20170314.pro.fw.sig</module>
                 <module id="0603" version="00.00.06.07" type="" group="gl" size="19872" md5="afe9d32ba93a118a3fefbb2ce4b3850a">wm220_0603_v00.00.06.07_20170314.pro.fw.sig</module>
@@ -540,10 +520,8 @@ MD5 (wm220_0801_v01.05.00.20_20170331.pro.fw.sig) = a79d46134779a73cb7cc4ae687f8
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0801" version="01.05.00.20" type="" group="ac" size="41515328" md5="a79d46134779a73cb7cc4ae687f8e6a4">wm220_0801_v01.05.00.20_20170331.pro.fw.sig</module>
                 <module id="0801" version="01.05.00.20" type="" group="ac" size="41515328" md5="a79d46134779a73cb7cc4ae687f8e6a4">wm220_0801_v01.05.00.20_20170331.pro.fw.sig</module>
                 <module id="0801" version="01.05.00.20" type="" group="ac" size="41515328" md5="a79d46134779a73cb7cc4ae687f8e6a4">wm220_0801_v01.05.00.20_20170331.pro.fw.sig</module>
                 <module id="0801" version="01.05.00.20" type="" group="ac" size="41515328" md5="a79d46134779a73cb7cc4ae687f8e6a4">wm220_0801_v01.05.00.20_20170331.pro.fw.sig</module>
@@ -581,10 +559,8 @@ Binary file V01.03.0550_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0802" version="01.00.03.08" type="" group="ac" size="5320416" md5="a946c3e153ae232fa2f96141524ba7f9">wm220_0802_v01.00.03.08_20170116.pro.fw.sig</module>
                 <module id="0802" version="01.00.03.08" type="" group="ac" size="5320416" md5="a946c3e153ae232fa2f96141524ba7f9">wm220_0802_v01.00.03.08_20170116.pro.fw.sig</module>
                 <module id="0802" version="01.00.03.08" type="" group="ac" size="5320416" md5="a946c3e153ae232fa2f96141524ba7f9">wm220_0802_v01.00.03.08_20170116.pro.fw.sig</module>
                 <module id="0802" version="01.00.03.08" type="" group="ac" size="5320416" md5="a946c3e153ae232fa2f96141524ba7f9">wm220_0802_v01.00.03.08_20170116.pro.fw.sig</module>
@@ -630,7 +606,6 @@ MD5 (wm220_0803_v00.00.04.08_20170314.pro.fw.sig) = 31065bb04b6a1062a7cbf0409455
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0800_Goggles_dji_system/wm220_gl.cfg.sig matches
@@ -639,7 +614,6 @@ Binary file V01.03.0800_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0900_Goggles_dji_system/wm220_gl.cfg.sig matches
 Binary file V01.03.0900_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0900_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0803" version="00.00.04.08" type="" group="ac" size="43488" md5="31065bb04b6a1062a7cbf0409455dc97">wm220_0803_v00.00.04.08_20170314.pro.fw.sig</module>
                 <module id="0803" version="00.00.04.08" type="" group="ac" size="43488" md5="31065bb04b6a1062a7cbf0409455dc97">wm220_0803_v00.00.04.08_20170314.pro.fw.sig</module>
                 <module id="0803" version="00.00.04.08" type="" group="ac" size="43488" md5="31065bb04b6a1062a7cbf0409455dc97">wm220_0803_v00.00.04.08_20170314.pro.fw.sig</module>
                 <module id="0803" version="00.00.04.08" type="" group="ac" size="43488" md5="31065bb04b6a1062a7cbf0409455dc97">wm220_0803_v00.00.04.08_20170314.pro.fw.sig</module>
@@ -667,7 +641,6 @@ Binary file V01.03.0550_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0800_Goggles_dji_system/wm220_gl.cfg.sig matches
@@ -676,7 +649,6 @@ Binary file V01.03.0800_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0900_Goggles_dji_system/wm220_gl.cfg.sig matches
 Binary file V01.03.0900_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0900_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0804" version="01.00.00.08" type="" group="ac" size="26432" md5="0d7186a5caea88c82a4a78b9a8f0447c">wm220_0804_v01.00.00.08_20170113.pro.fw.sig</module>
                 <module id="0804" version="01.00.00.08" type="" group="ac" size="26432" md5="0d7186a5caea88c82a4a78b9a8f0447c">wm220_0804_v01.00.00.08_20170113.pro.fw.sig</module>
                 <module id="0804" version="01.00.00.08" type="" group="ac" size="26432" md5="0d7186a5caea88c82a4a78b9a8f0447c">wm220_0804_v01.00.00.08_20170113.pro.fw.sig</module>
                 <module id="0804" version="01.00.00.08" type="" group="ac" size="26432" md5="0d7186a5caea88c82a4a78b9a8f0447c">wm220_0804_v01.00.00.08_20170113.pro.fw.sig</module>
@@ -722,10 +694,8 @@ Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 ---------
 MD5 (wm220_0805_v01.01.00.87_20170427.pro.fw.sig) = 6fa120e403c383118b35d95bd9f85d88
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0805" version="01.01.00.87" type="" group="ac" size="3052000" md5="6fa120e403c383118b35d95bd9f85d88">wm220_0805_v01.01.00.87_20170427.pro.fw.sig</module>
                 <module id="0805" version="01.01.00.87" type="" group="ac" size="3052000" md5="6fa120e403c383118b35d95bd9f85d88">wm220_0805_v01.01.00.87_20170427.pro.fw.sig</module>
                 <module id="0805" version="01.01.00.87" type="" group="ac" size="3052000" md5="6fa120e403c383118b35d95bd9f85d88">wm220_0805_v01.01.00.87_20170427.pro.fw.sig</module>
                 <module id="0805" version="01.01.00.87" type="" group="ac" size="3052000" md5="6fa120e403c383118b35d95bd9f85d88">wm220_0805_v01.01.00.87_20170427.pro.fw.sig</module>
@@ -753,10 +723,8 @@ Binary file V01.03.0550_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0905" version="00.00.01.04" type="" group="ac" size="92096" md5="221c6661b5c60afb04fa32335815f470">wm220_0905_v00.00.01.04_20170301.pro.fw.sig</module>
                 <module id="0905" version="00.00.01.04" type="" group="ac" size="92096" md5="221c6661b5c60afb04fa32335815f470">wm220_0905_v00.00.01.04_20170301.pro.fw.sig</module>
                 <module id="0905" version="00.00.01.04" type="" group="ac" size="92096" md5="221c6661b5c60afb04fa32335815f470">wm220_0905_v00.00.01.04_20170301.pro.fw.sig</module>
                 <module id="0905" version="00.00.01.04" type="" group="ac" size="92096" md5="221c6661b5c60afb04fa32335815f470">wm220_0905_v00.00.01.04_20170301.pro.fw.sig</module>
@@ -806,10 +774,8 @@ Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 ---------
 MD5 (wm220_0907_v47.26.02.11_20170419.pro.fw.sig) = 4c393f76d69db509098a561f3fed6c30
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="0907" version="47.26.02.11" type="" group="ac" size="4142592" md5="4c393f76d69db509098a561f3fed6c30">wm220_0907_v47.26.02.11_20170419.pro.fw.sig</module>
                 <module id="0907" version="47.26.02.11" type="" group="ac" size="4142592" md5="4c393f76d69db509098a561f3fed6c30">wm220_0907_v47.26.02.11_20170419.pro.fw.sig</module>
                 <module id="0907" version="47.26.02.11" type="" group="ac" size="4142592" md5="4c393f76d69db509098a561f3fed6c30">wm220_0907_v47.26.02.11_20170419.pro.fw.sig</module>
                 <module id="0907" version="47.26.02.11" type="" group="ac" size="4142592" md5="4c393f76d69db509098a561f3fed6c30">wm220_0907_v47.26.02.11_20170419.pro.fw.sig</module>
@@ -841,10 +807,8 @@ Binary file V01.03.0550_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="1100" version="01.00.07.24" type="" group="ac" size="28416" md5="25c48c458c4a39d0bb556a3c9085b073">wm220_1100_v01.00.07.24_20161206.pro.fw.sig</module>
                 <module id="1100" version="01.00.07.24" type="" group="ac" size="28416" md5="25c48c458c4a39d0bb556a3c9085b073">wm220_1100_v01.00.07.24_20161206.pro.fw.sig</module>
                 <module id="1100" version="01.00.07.24" type="" group="ac" size="28416" md5="25c48c458c4a39d0bb556a3c9085b073">wm220_1100_v01.00.07.24_20161206.pro.fw.sig</module>
                 <module id="1100" version="01.00.07.24" type="" group="ac" size="28416" md5="25c48c458c4a39d0bb556a3c9085b073">wm220_1100_v01.00.07.24_20161206.pro.fw.sig</module>
@@ -887,7 +851,6 @@ Binary file V01.03.0550_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0800_Goggles_dji_system/wm220_gl.cfg.sig matches
@@ -896,7 +859,6 @@ Binary file V01.03.0800_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0900_Goggles_dji_system/wm220_gl.cfg.sig matches
 Binary file V01.03.0900_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0900_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="1200" version="01.09.00.00" type="" group="ac" size="20768" md5="f8b0eb9ce619161a7a356a080d58915e">wm220_1200_v01.09.00.00_20161204.pro.fw.sig</module>
                 <module id="1200" version="01.09.00.00" type="" group="ac" size="20768" md5="f8b0eb9ce619161a7a356a080d58915e">wm220_1200_v01.09.00.00_20161204.pro.fw.sig</module>
                 <module id="1200" version="01.09.00.00" type="" group="ac" size="20768" md5="f8b0eb9ce619161a7a356a080d58915e">wm220_1200_v01.09.00.00_20161204.pro.fw.sig</module>
                 <module id="1200" version="01.09.00.00" type="" group="ac" size="20768" md5="f8b0eb9ce619161a7a356a080d58915e">wm220_1200_v01.09.00.00_20161204.pro.fw.sig</module>
@@ -929,7 +891,6 @@ Binary file V01.03.0550_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0800_Goggles_dji_system/wm220_gl.cfg.sig matches
@@ -938,7 +899,6 @@ Binary file V01.03.0800_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0900_Goggles_dji_system/wm220_gl.cfg.sig matches
 Binary file V01.03.0900_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0900_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="1201" version="01.09.00.00" type="" group="ac" size="20768" md5="e0615c4437c221741cd88ec045750668">wm220_1201_v01.09.00.00_20161204.pro.fw.sig</module>
                 <module id="1201" version="01.09.00.00" type="" group="ac" size="20768" md5="e0615c4437c221741cd88ec045750668">wm220_1201_v01.09.00.00_20161204.pro.fw.sig</module>
                 <module id="1201" version="01.09.00.00" type="" group="ac" size="20768" md5="e0615c4437c221741cd88ec045750668">wm220_1201_v01.09.00.00_20161204.pro.fw.sig</module>
                 <module id="1201" version="01.09.00.00" type="" group="ac" size="20768" md5="e0615c4437c221741cd88ec045750668">wm220_1201_v01.09.00.00_20161204.pro.fw.sig</module>
@@ -971,7 +931,6 @@ Binary file V01.03.0550_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0800_Goggles_dji_system/wm220_gl.cfg.sig matches
@@ -980,7 +939,6 @@ Binary file V01.03.0800_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0900_Goggles_dji_system/wm220_gl.cfg.sig matches
 Binary file V01.03.0900_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0900_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="1202" version="01.09.00.00" type="" group="ac" size="20768" md5="38dc6ef9da92998658ae942ecaae8839">wm220_1202_v01.09.00.00_20161204.pro.fw.sig</module>
                 <module id="1202" version="01.09.00.00" type="" group="ac" size="20768" md5="38dc6ef9da92998658ae942ecaae8839">wm220_1202_v01.09.00.00_20161204.pro.fw.sig</module>
                 <module id="1202" version="01.09.00.00" type="" group="ac" size="20768" md5="38dc6ef9da92998658ae942ecaae8839">wm220_1202_v01.09.00.00_20161204.pro.fw.sig</module>
                 <module id="1202" version="01.09.00.00" type="" group="ac" size="20768" md5="38dc6ef9da92998658ae942ecaae8839">wm220_1202_v01.09.00.00_20161204.pro.fw.sig</module>
@@ -1013,7 +971,6 @@ Binary file V01.03.0550_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0800_Goggles_dji_system/wm220_gl.cfg.sig matches
@@ -1022,7 +979,6 @@ Binary file V01.03.0800_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0900_Goggles_dji_system/wm220_gl.cfg.sig matches
 Binary file V01.03.0900_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0900_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="1203" version="01.09.00.00" type="" group="ac" size="20768" md5="104466fbeec76684683c9f9233999977">wm220_1203_v01.09.00.00_20161204.pro.fw.sig</module>
                 <module id="1203" version="01.09.00.00" type="" group="ac" size="20768" md5="104466fbeec76684683c9f9233999977">wm220_1203_v01.09.00.00_20161204.pro.fw.sig</module>
                 <module id="1203" version="01.09.00.00" type="" group="ac" size="20768" md5="104466fbeec76684683c9f9233999977">wm220_1203_v01.09.00.00_20161204.pro.fw.sig</module>
                 <module id="1203" version="01.09.00.00" type="" group="ac" size="20768" md5="104466fbeec76684683c9f9233999977">wm220_1203_v01.09.00.00_20161204.pro.fw.sig</module>
@@ -1068,10 +1024,8 @@ Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 ---------
 MD5 (wm220_1301_v01.05.00.23_20170418.pro.fw.sig) = 65d3e2dcf78b6e41137e17e106b0424f
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="1301" version="01.05.00.23" type="" group="rc" size="25830208" md5="65d3e2dcf78b6e41137e17e106b0424f">wm220_1301_v01.05.00.23_20170418.pro.fw.sig</module>
                 <module id="1301" version="01.05.00.23" type="" group="rc" size="25830208" md5="65d3e2dcf78b6e41137e17e106b0424f">wm220_1301_v01.05.00.23_20170418.pro.fw.sig</module>
                 <module id="1301" version="01.05.00.23" type="" group="rc" size="25830208" md5="65d3e2dcf78b6e41137e17e106b0424f">wm220_1301_v01.05.00.23_20170418.pro.fw.sig</module>
                 <module id="1301" version="01.05.00.23" type="" group="rc" size="25830208" md5="65d3e2dcf78b6e41137e17e106b0424f">wm220_1301_v01.05.00.23_20170418.pro.fw.sig</module>
@@ -1118,10 +1072,8 @@ Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 ---------
 MD5 (wm220_1407_v47.26.02.11_20170419.pro.fw.sig) = e62c7b4a5408f271b83aa890ef70ab0b
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="1407" version="47.26.02.11" type="" group="rc" size="4142592" md5="e62c7b4a5408f271b83aa890ef70ab0b">wm220_1407_v47.26.02.11_20170419.pro.fw.sig</module>
                 <module id="1407" version="47.26.02.11" type="" group="rc" size="4142592" md5="e62c7b4a5408f271b83aa890ef70ab0b">wm220_1407_v47.26.02.11_20170419.pro.fw.sig</module>
                 <module id="1407" version="47.26.02.11" type="" group="rc" size="4142592" md5="e62c7b4a5408f271b83aa890ef70ab0b">wm220_1407_v47.26.02.11_20170419.pro.fw.sig</module>
                 <module id="1407" version="47.26.02.11" type="" group="rc" size="4142592" md5="e62c7b4a5408f271b83aa890ef70ab0b">wm220_1407_v47.26.02.11_20170419.pro.fw.sig</module>
@@ -1150,10 +1102,8 @@ Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 ---------
 MD5 (wm220_2801_v01.02.21.01_20170421.pro.fw.sig) = 3b8ca0046c8da2b8d809723643139048
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="2801" version="01.02.21.01" type="" group="gl" size="71396480" md5="3b8ca0046c8da2b8d809723643139048">wm220_2801_v01.02.21.01_20170421.pro.fw.sig</module>
                 <module id="2801" version="01.02.21.01" type="" group="gl" size="71396480" md5="3b8ca0046c8da2b8d809723643139048">wm220_2801_v01.02.21.01_20170421.pro.fw.sig</module>
                 <module id="2801" version="01.02.21.01" type="" group="gl" size="71396480" md5="3b8ca0046c8da2b8d809723643139048">wm220_2801_v01.02.21.01_20170421.pro.fw.sig</module>
                 <module id="2801" version="01.02.21.01" type="" group="gl" size="71396480" md5="3b8ca0046c8da2b8d809723643139048">wm220_2801_v01.02.21.01_20170421.pro.fw.sig</module>
@@ -1178,7 +1128,6 @@ MD5 (wm220_2803_v00.00.03.08_20170302_cd01.pro.fw.sig) = 580f0b0e5c817893467d2e1
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0800_Goggles_dji_system/wm220_gl.cfg.sig matches
@@ -1187,7 +1136,6 @@ Binary file V01.03.0800_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0900_Goggles_dji_system/wm220_gl.cfg.sig matches
 Binary file V01.03.0900_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0900_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="2803" version="00.00.03.08" type="cd01" group="gl" size="180640" md5="580f0b0e5c817893467d2e15c7570de5">wm220_2803_v00.00.03.08_20170302_cd01.pro.fw.sig</module>
                 <module id="2803" version="00.00.03.08" type="cd01" group="gl" size="180640" md5="580f0b0e5c817893467d2e15c7570de5">wm220_2803_v00.00.03.08_20170302_cd01.pro.fw.sig</module>
                 <module id="2803" version="00.00.03.08" type="cd01" group="gl" size="180640" md5="580f0b0e5c817893467d2e15c7570de5">wm220_2803_v00.00.03.08_20170302_cd01.pro.fw.sig</module>
                 <module id="2803" version="00.00.03.08" type="cd01" group="gl" size="180640" md5="580f0b0e5c817893467d2e15c7570de5">wm220_2803_v00.00.03.08_20170302_cd01.pro.fw.sig</module>
@@ -1204,7 +1152,6 @@ MD5 (wm220_2803_v00.00.03.08_20170302_cd02.pro.fw.sig) = 31fa7d6d96383683067ba59
 Binary file V01.03.0600_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0800_Goggles_dji_system/wm220_gl.cfg.sig matches
@@ -1213,7 +1160,6 @@ Binary file V01.03.0800_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 Binary file V01.03.0900_Goggles_dji_system/wm220_gl.cfg.sig matches
 Binary file V01.03.0900_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0900_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="2803" version="00.00.03.08" type="cd02" group="gl" size="180640" md5="31fa7d6d96383683067ba597a9872fe2">wm220_2803_v00.00.03.08_20170302_cd02.pro.fw.sig</module>
                 <module id="2803" version="00.00.03.08" type="cd02" group="gl" size="180640" md5="31fa7d6d96383683067ba597a9872fe2">wm220_2803_v00.00.03.08_20170302_cd02.pro.fw.sig</module>
                 <module id="2803" version="00.00.03.08" type="cd02" group="gl" size="180640" md5="31fa7d6d96383683067ba597a9872fe2">wm220_2803_v00.00.03.08_20170302_cd02.pro.fw.sig</module>
                 <module id="2803" version="00.00.03.08" type="cd02" group="gl" size="180640" md5="31fa7d6d96383683067ba597a9872fe2">wm220_2803_v00.00.03.08_20170302_cd02.pro.fw.sig</module>
@@ -1234,10 +1180,8 @@ Binary file V01.03.0600_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
 ---------
 MD5 (wm220_2807_v47.26.02.11_20170419.pro.fw.sig) = ff1d46406a8fe3df3b1a6a09aa10e6d9
 Binary file V01.03.0700_Goggles_dji_system/wm220_gl.cfg.sig matches
-Binary file V01.03.0700_Goggles_dji_system-2/wm220_0000_v01.03.0700_20170505.pro.cfg.sig matches
 Binary file V01.03.0700_Mavic_dji_system/wm220.cfg.sig matches
 Binary file V01.03.0700_RC_Mavic_dji_system/wm220_rc.cfg.sig matches
-                <module id="2807" version="47.26.02.11" type="" group="gl" size="4142592" md5="ff1d46406a8fe3df3b1a6a09aa10e6d9">wm220_2807_v47.26.02.11_20170419.pro.fw.sig</module>
                 <module id="2807" version="47.26.02.11" type="" group="gl" size="4142592" md5="ff1d46406a8fe3df3b1a6a09aa10e6d9">wm220_2807_v47.26.02.11_20170419.pro.fw.sig</module>
                 <module id="2807" version="47.26.02.11" type="" group="gl" size="4142592" md5="ff1d46406a8fe3df3b1a6a09aa10e6d9">wm220_2807_v47.26.02.11_20170419.pro.fw.sig</module>
                 <module id="2807" version="47.26.02.11" type="" group="gl" size="4142592" md5="ff1d46406a8fe3df3b1a6a09aa10e6d9">wm220_2807_v47.26.02.11_20170419.pro.fw.sig</module>
