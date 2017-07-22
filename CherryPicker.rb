@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 # model numbers
 
 models = Hash.new()
@@ -55,7 +56,9 @@ puts "Using config file: #{cfg}"
 config_sig = File.readlines("#{cfg}")[0..-1]
 config_sig.shift # Drop the signature header 
 config_sig.pop # Drop tailing 0's
-puts config_sig
+#puts config_sig
+
+p Hash.from_xml(config_sig)
 
 #puts "---------------------------------------------------"
 #Dir.glob("*.fw.sig") {|file|
