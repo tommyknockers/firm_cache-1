@@ -9,6 +9,7 @@ models['wm330'] =    'P4'
 models['wm331'] =    'P4P'
 models['wm620'] =    'Inspire2'
 name = ""
+firmware = ""
 
 if ARGV[0] == nil
     # Use for-loop on keys.
@@ -26,14 +27,23 @@ end
 
 puts "Name is: #{name}"
 
+if ARGV[1] == nil
+    puts "Available firmware versions:"
+    Dir.glob("V*/*.cfg.sig") {|file|
+        if file.include?(models[name])
+            puts "- #{file.split('_')[0]}"
+        end
+    }
+    puts "Enter desired firmware: "
+    firmware = gets.chomp
+    puts "Using firmware: #{firmware}"
+else
+    puts "Using firmware: #{ARGV[1]}"
+    firmware = ARGV[1]
+end
+
 # Seek in 480 bytes and look for XML header 
 # 000001e0: 3c3f 786d 6c20 7665 7273 696f 6e3d 2231  <?xml version="1
-puts "Available firmware versions:"
-Dir.glob("V*/*.cfg.sig") {|file|
-    if file.include?(models[name])
-        puts "- #{file.split('_')[0]}"
-    end
-}
 
 #puts "---------------------------------------------------"
 #Dir.glob("*.fw.sig") {|file|
