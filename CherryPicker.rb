@@ -2,6 +2,8 @@
 # gem install nokogiri  -v '1.6.7.2' -- --with-xml2-include=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/include/libxml2 --use-system-libraries 
 # 
 require 'nokogiri'
+require "rubygems"
+require "highline/import"
 
 # model numbers
 models = Hash.new()
@@ -59,12 +61,13 @@ puts "Using config file: #{cfg}"
 config_sig = File.read("#{cfg}")
 startxml = config_sig.index("<dji>")
 config_sig = config_sig[startxml..-24]
-#puts config_sig
 
 firmwarepackage = Nokogiri::XML(config_sig)
 firmwarepackage_version = firmwarepackage.xpath('/dji/device/firmware/release').first['version']
 puts "Firmware version inside package confirmed as #{firmwarepackage_version}"
 
+sigfiles = Array.new
+handrolled = Array.new
 puts "Found update for: "
 firmwarepackage.xpath('/dji/device/firmware/release/module').each do  |firmware_module|
     # Known type's
@@ -77,18 +80,50 @@ firmwarepackage.xpath('/dji/device/firmware/release/module').each do  |firmware_
     # ln01 -
     # ln02 -
 
-    print "#{firmware_module['group']}_module id:#{firmware_module['id']} version:#{firmware_module['version']} md5:#{firmware_module['md5']}"
+    sig =  "#{firmware_module['group']}_module id:#{firmware_module['id']} version:#{firmware_module['version']}"
     # Known group's
     # ac - AirCraft
     # gl - GroundLink (Goggles, Mavic RC)
     # rc - RemoteController
 
     if "#{firmware_module['type']}" != ""
-        puts " group: #{firmware_module['type']}"
-    else
-        puts ""
+        sig = sig + " group: #{firmware_module['type']}"
     end
+
+    sigfiles << [firmware_module.text(), sig, "md5:#{firmware_module['md5']}" ]
+
 end
+
+sigfiles << "Done. (roll the tar)"
+
+loop do 
+    taritup = false
+    choose do |menu|
+        menu.shell = true
+        menu.prompt = 'Please choose the .fw.sigs you wish to include:'
+        menu.choices(*sigfiles) do |chosen|
+            if "#{chosen}" == "Done. (roll the tar)"
+                puts "tar it up now!"
+                taritup = true
+            else
+                puts "adding to handroll"
+                handrolled << "#{chosen}"
+                sigfiles.delete_if do |sig|
+                    if chosen == sig 
+                        true
+                    end
+                end
+            end
+        end
+    end
+
+    if taritup == true
+        break
+    end
+end 
+
+puts handrolled 
+
 
 puts "---------------------------------------------------"
 
