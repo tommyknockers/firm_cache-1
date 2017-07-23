@@ -67,8 +67,22 @@ puts "Firmware version inside package confirmed as #{firmwarepackage_version}"
 
 puts "Found update for: "
 firmwarepackage.xpath('/dji/device/firmware/release/module').each do  |firmware_module|
-#   puts "#{firmware_module['version']} #{firmware_module['group']} #{firmware_module['type']} #{firmware_module['id']} #{firmware_module['md5']}"
+    # Known type's
+    # ca02 -
+    # cd01 -
+    # cd02 -
+    # cd03 -
+    # gb01 -
+    # gb02 - 
+    # ln01 -
+    # ln02 -
+
     print "#{firmware_module['group']}_module id:#{firmware_module['id']} version:#{firmware_module['version']} md5:#{firmware_module['md5']}"
+    # Known group's
+    # ac - AirCraft
+    # gl - GroundLink (Goggles, Mavic RC)
+    # rc - RemoteController
+
     if "#{firmware_module['type']}" != ""
         puts " group: #{firmware_module['type']}"
     else
@@ -77,62 +91,48 @@ firmwarepackage.xpath('/dji/device/firmware/release/module').each do  |firmware_
 end
 
 puts "---------------------------------------------------"
+
+# Known module id's
+# Need to document what each ID goes to, upgrade00.log is the best immediate candiate to map these out if you don't want to disas dji_sys
+# 
+# 0100 -
+# 0101 -
+# 0104 -
+# 0106 -
+# 0305 -
+# 0306 -
+# 0400 -
+# 0401 -
+# 0402 -
+# 0404 -
+# 0500 -
+# 0501 -
+# 0600 -
+# 0601 -
+# 0603 -
+# 0801 -
+# 0802 -
+# 0803 -
+# 0804 -
+# 0805 -
+# 0900 -
+# 0905 -
+# 0907 -
+# 1100 -
+# 1101 -
+# 1200 -
+# 1201 -
+# 1202 -
+# 1203 -
+# 1301 -
+# 1407 -
+# 2801 -
+# 2803 -
+# 2807 -
+
+# Begin tar file creation 
 #Dir.glob("*.fw.sig") {|file|
 #    if file.include?(name)
 #        puts file
 #    end
 #} 
-
-
-# type
-#"ca02"
-#"cd01"
-#"cd02"
-#"cd03"
-#"gb01"
-#"gb02"
-#"ln01"
-#"ln02"
-
-# group
-#"ac"
-#"gl"
-#"rc"
-
-# module id
-#"0100"
-#"0101"
-#"0104"
-#"0106"
-#"0305"
-#"0306"
-#"0400"
-#"0401"
-#"0402"
-#"0404"
-#"0500"
-#"0501"
-#"0600"
-#"0601"
-#"0603"
-#"0801"
-#"0802"
-#"0803"
-#"0804"
-#"0805"
-#"0900"
-#"0905"
-#"0907"
-#"1100"
-#"1101"
-#"1200"
-#"1201"
-#"1202"
-#"1203"
-#"1301"
-#"1407"
-#"2801"
-#"2803"
-#"2807"
-
-
