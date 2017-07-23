@@ -2,8 +2,9 @@
 # gem install nokogiri  -v '1.6.7.2' -- --with-xml2-include=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/include/libxml2 --use-system-libraries 
 # 
 require 'nokogiri'
-require "rubygems"
-require "highline/import"
+require 'rubygems'
+require 'highline/import'
+require 'fileutils'
 
 # model numbers
 models = Hash.new()
@@ -36,7 +37,7 @@ puts "Name is: #{name}"
 
 if ARGV[1] == nil
     puts "Available firmware versions:"
-    Dir.glob("V*/*.cfg.sig") {|file|
+    Dir.glob("cfgs/V*/*.cfg.sig") {|file|
         if file.include?(models[name])
             puts "- #{file.split('_')[0]}"
         end
@@ -50,7 +51,7 @@ else
 end
 
 # This should only be one file
-Dir.glob("#{firmware}_#{models[name]}_dji_system/*.cfg.sig") {|file| 
+Dir.glob("cfgs/#{firmware}_#{models[name]}_dji_system/*.cfg.sig") {|file| 
     cfg = "#{file}"
 }
 
@@ -107,7 +108,7 @@ loop do
                 taritup = true
             else
                 puts "adding to handroll"
-                handrolled << "#{chosen}"
+                handrolled << "#{chosen[0]}"
                 sigfiles.delete_if do |sig|
                     if chosen == sig 
                         true
@@ -118,14 +119,47 @@ loop do
     end
 
     if taritup == true
-        break
+        if handrolled.length > 0
+            puts "At least one module detected"
+            break
+        else
+            puts "Please select more modules"
+            taritup = false
+        end
     end
 end 
 
-puts handrolled 
+# Begin tar file creation 
+directory_name = "dji_system"
+Dir.mkdir(directory_name) unless File.exists?(directory_name)
 
+puts "Cleaning up any existing firmware files in ./dji_system"
+Dir.glob("#{directory_name}/*").each { |file| 
+    File.delete(file)
+    puts "deleted #{file}"
+}
 
-puts "---------------------------------------------------"
+puts "Copying over firmware modules"
+handrolled.each { |file|
+    puts "-> sigs/#{file}"
+    FileUtils.cp( "sigs/#{file}", "dji_system/")
+}
+FileUtils.cp( cfg, "dji_system/")
+
+if File.exists?("dji_system.bin")
+    puts "deleting stale firmware file"
+    File.unlink("dji_system.bin")
+end
+
+# Tested on OSX with brew http://brewformulas.org/GnuTar 
+%x[ gtar --owner=0 --group=0 -cvf dji_system.bin -C dji_system/ .]
+
+if File.exists?("dji_system.bin")
+    puts "Successful *custom* dji_system.bin creation"
+    puts %x[gtar -tvf dji_system.bin]
+else
+    puts "Something went wrong... try again"
+end
 
 # Known module id's
 # Need to document what each ID goes to, upgrade00.log is the best immediate candiate to map these out if you don't want to disas dji_sys
@@ -164,10 +198,3 @@ puts "---------------------------------------------------"
 # 2801 -
 # 2803 -
 # 2807 -
-
-# Begin tar file creation 
-#Dir.glob("*.fw.sig") {|file|
-#    if file.include?(name)
-#        puts file
-#    end
-#} 
