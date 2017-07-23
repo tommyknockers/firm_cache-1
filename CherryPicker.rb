@@ -179,8 +179,8 @@ end
 # 0500 -
 # 0501 -
 # 0600 - GLB200A MCU_051_gnd Upgrade
-# 0601 -
-# 0603 -
+# 0601 - Goggles MCU_031_gls Upgrade
+# 0603 - Goggles MCU_051_gls Upgrade
 # 0801 -
 # 0802 -
 # 0803 -
