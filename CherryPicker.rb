@@ -163,20 +163,22 @@ end
 
 # Known module id's
 # Need to document what each ID goes to, upgrade00.log is the best immediate candiate to map these out if you don't want to disas dji_sys
-# 
-# 0100 -
-# 0101 -
-# 0104 -
+# Use the below grep command to get a list on a rooted device. 
+# grep ": check file" `busybox find / -name "*upgrade*log*"`  | busybox cut -f2 -d "]" | busybox sort | busybox uniq 
+#
+# 0100 - Mavic Camera Upgrade
+# 0101 - Mavic Camera Loader Upgrade
+# 0104 - 
 # 0106 -
-# 0305 - FC Loader
-# 0306 - FC APP
-# 0400 -
+# 0305 - Spark, Mavic FC Loader Upgrade
+# 0306 - Spark, Mavic FC APP Upgrade
+# 0400 - Spark, Mavic Gimbal Upgrade
 # 0401 -
 # 0402 -
 # 0404 -
 # 0500 -
 # 0501 -
-# 0600 -
+# 0600 - GLB200A MCU_051_gnd Upgrade
 # 0601 -
 # 0603 -
 # 0801 -
@@ -187,12 +189,12 @@ end
 # 0900 -
 # 0905 -
 # 0907 -
-# 1100 -
+# 1100 - Spark, Mavic Battery Upgrade
 # 1101 -
-# 1200 -
-# 1201 -
-# 1202 -
-# 1203 -
+# 1200 - Spark, Mavic ESC0 Upgrade
+# 1201 - spark, Mavic ESC1 Upgrade
+# 1202 - Spark, Mavic ESC2 Upgrade
+# 1203 - Spark, Mavic ESC3 Upgrade
 # 1301 -
 # 1407 -
 # 2801 -
