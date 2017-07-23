@@ -39,7 +39,7 @@ if ARGV[1] == nil
     puts "Available firmware versions:"
     Dir.glob("cfgs/V*/*.cfg.sig") {|file|
         if file.include?(models[name])
-            puts "- #{file.split('_')[0]}"
+            puts "- " + file.split('_')[0].split('/')[1]
         end
     }
     puts "Enter desired firmware: "
