@@ -166,29 +166,29 @@ end
 # Use the below grep command to get a list on a rooted device. 
 # grep ": check file" `busybox find / -name "*upgrade*log*"`  | busybox cut -f2 -d "]" | busybox sort | busybox uniq 
 #
-# 0100 - P4, i2, Mavic Camera Upgrade
+# 0100 - P4P ?, P4, i2, Mavic Camera Upgrade
 # 0101 - P4, Mavic Camera Loader Upgrade
-# 0104 - 
+# 0104 - P4P ?
 # 0106 - 
 # 0305 - P4, i2 FlyCtrl_Loader, Spark, Mavic FC Loader Upgrade
-# 0306 - P4, i2 FlyCtrl, Spark, Mavic FC APP Upgrade
-# 0400 - P4, Spark, Mavic Gimbal Upgrade
-# 0401 - P4 Gimbal 5223#1, i2 Gimbal_ESC Upgrade
-# 0402 - P4 Gimbal 5223 #2, i2 SSD_Controller Upgrade
+# 0306 - P4P, P4, i2 FlyCtrl, Spark, Mavic FC APP Upgrade
+# 0400 - P4P ?, P4, Spark, Mavic Gimbal Upgrade
+# 0401 - P4P ?, P4 Gimbal 5223#1, i2 Gimbal_ESC Upgrade
+# 0402 - P4P ?, P4 Gimbal 5223 #2, i2 SSD_Controller Upgrade
 # 0404 - FPV_Gimbal Upgrade
 # 0500 - i2 CenterBoard Upgrade
 # 0501 - i2 Gear_Controller Upgrade
 # 0600 - GLB200A MCU_051_gnd Upgrade
 # 0601 - Goggles MCU_031_gls Upgrade
 # 0603 - Goggles MCU_051_gls Upgrade
-# 0801 -
-# 0802 -
-# 0803 -
-# 0804 -
-# 0805 -
-# 0900 - P4 OFDM, i2 LightBridge Upgrade
-# 0905 -
-# 0907 -
+# 0801 - P4P ?
+# 0802 - P4P ?
+# 0803 - P4P ?
+# 0804 - P4P ?
+# 0805 - P4P ?
+# 0900 - P4P ?, P4 OFDM, i2 LightBridge Upgrade
+# 0905 - P4P ?
+# 0907 - 
 # 1100 - i2 Battery_0, P4, Spark, Mavic Battery Upgrade
 # 1101 - i2 Battery_1 Upgrade
 # 1200 - P4, i2, Spark, Mavic ESC0 Upgrade
