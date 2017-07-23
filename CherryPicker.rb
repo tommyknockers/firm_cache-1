@@ -166,18 +166,18 @@ end
 # Use the below grep command to get a list on a rooted device. 
 # grep ": check file" `busybox find / -name "*upgrade*log*"`  | busybox cut -f2 -d "]" | busybox sort | busybox uniq 
 #
-# 0100 - Mavic Camera Upgrade
+# 0100 - i2, Mavic Camera Upgrade
 # 0101 - Mavic Camera Loader Upgrade
 # 0104 - 
-# 0106 -
-# 0305 - Spark, Mavic FC Loader Upgrade
-# 0306 - Spark, Mavic FC APP Upgrade
+# 0106 - i2 
+# 0305 - i2 FlyCtrl_Loader, Spark, Mavic FC Loader Upgrade
+# 0306 - i2  FlyCtrl, Spark, Mavic FC APP Upgrade
 # 0400 - Spark, Mavic Gimbal Upgrade
-# 0401 -
-# 0402 -
-# 0404 -
-# 0500 -
-# 0501 -
+# 0401 - i2 Gimbal_ESC Upgrade
+# 0402 - i2 SSD_Controller Upgrade
+# 0404 - FPV_Gimbal Upgrade
+# 0500 - i2 CenterBoard Upgrade
+# 0501 - i2 Gear_Controller Upgrade
 # 0600 - GLB200A MCU_051_gnd Upgrade
 # 0601 - Goggles MCU_031_gls Upgrade
 # 0603 - Goggles MCU_051_gls Upgrade
@@ -186,15 +186,15 @@ end
 # 0803 -
 # 0804 -
 # 0805 -
-# 0900 -
+# 0900 - i2 LightBridge Upgrade
 # 0905 -
 # 0907 -
-# 1100 - Spark, Mavic Battery Upgrade
-# 1101 -
-# 1200 - Spark, Mavic ESC0 Upgrade
-# 1201 - spark, Mavic ESC1 Upgrade
-# 1202 - Spark, Mavic ESC2 Upgrade
-# 1203 - Spark, Mavic ESC3 Upgrade
+# 1100 - i2 Battery_0, Spark, Mavic Battery Upgrade
+# 1101 - i2 Battery_1 Upgrade
+# 1200 - i2, Spark, Mavic ESC0 Upgrade
+# 1201 - i2, spark, Mavic ESC1 Upgrade
+# 1202 - i2, Spark, Mavic ESC2 Upgrade
+# 1203 - i2, Spark, Mavic ESC3 Upgrade
 # 1301 -
 # 1407 -
 # 2801 -
