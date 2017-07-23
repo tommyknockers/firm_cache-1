@@ -3,7 +3,7 @@ firmware cache from DJI Assistant.app
 as extracted from dji_system.bin files, and collected by end users. 
 Accompanying .bin files can be located here: https://github.com/MAVProxyUser/dji_system.bin
 
-[<img src=https://media.giphy.com/media/wNR8ZhO4fObRu/giphy.gif>]
+<img src=https://media.giphy.com/media/wNR8ZhO4fObRu/giphy.gif>
 
 Time to track individual .cfg.sig 
 ```
