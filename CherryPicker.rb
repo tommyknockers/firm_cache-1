@@ -166,7 +166,7 @@ end
 # Use the below grep command to get a list on a rooted device. 
 # grep ": check file" `busybox find / -name "*upgrade*log*"`  | busybox cut -f2 -d "]" | busybox sort | busybox uniq 
 #
-# 0100 - P4P ?, P4, i2, Mavic Camera Upgrade
+# 0100 - P4P, P4, i2, Mavic Camera Upgrade
 # 0101 - P4, Mavic Camera Loader Upgrade
 # 0104 - P4P Lens_Controller Upgrade
 # 0106 - 
@@ -178,7 +178,7 @@ end
 # 0404 - FPV_Gimbal Upgrade
 # 0500 - i2 CenterBoard Upgrade
 # 0501 - i2 Gear_Controller Upgrade
-# 0600 - GLB200A MCU_051_gnd Upgrade
+# 0600 - GLB200A MCU_051_gnd Upgrade (not encrypted)
 # 0601 - Goggles MCU_031_gls Upgrade
 # 0603 - Goggles MCU_051_gls Upgrade
 # 0801 - P4P ?
@@ -196,7 +196,7 @@ end
 # 1202 - P4, i2, Spark, Mavic ESC2 Upgrade
 # 1203 - P4, i2, Spark, Mavic ESC3 Upgrade
 # 1301 -
-# 1407 -
-# 2801 -
+# 1407 - GLB200A modem/arm/dsp/gnd/uav "upgrade file" (unencrypted)
+# 2801 - 
 # 2803 -
 # 2807 -
