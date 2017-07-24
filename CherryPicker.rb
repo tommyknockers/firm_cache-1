@@ -168,13 +168,13 @@ end
 #
 # 0100 - P4P ?, P4, i2, Mavic Camera Upgrade
 # 0101 - P4, Mavic Camera Loader Upgrade
-# 0104 - P4P ?
+# 0104 - P4P Lens_Controller Upgrade
 # 0106 - 
 # 0305 - P4, i2 FlyCtrl_Loader, Spark, Mavic FC Loader Upgrade
 # 0306 - P4P, P4, i2 FlyCtrl, Spark, Mavic FC APP Upgrade
-# 0400 - P4P ?, P4, Spark, Mavic Gimbal Upgrade
-# 0401 - P4P ?, P4 Gimbal 5223#1, i2 Gimbal_ESC Upgrade
-# 0402 - P4P ?, P4 Gimbal 5223 #2, i2 SSD_Controller Upgrade
+# 0400 - P4P, P4, Spark, Mavic Gimbal Upgrade
+# 0401 - P4P, P4 Gimbal 5223#1, i2 Gimbal_ESC Upgrade
+# 0402 - P4P, P4 Gimbal 5223 #2, i2 SSD_Controller Upgrade
 # 0404 - FPV_Gimbal Upgrade
 # 0500 - i2 CenterBoard Upgrade
 # 0501 - i2 Gear_Controller Upgrade
@@ -186,7 +186,7 @@ end
 # 0803 - P4P ?
 # 0804 - P4P ?
 # 0805 - P4P ?
-# 0900 - P4P ?, P4 OFDM, i2 LightBridge Upgrade
+# 0900 - P4 OFDM, P4P, i2 LightBridge Upgrade
 # 0905 - P4P ?
 # 0907 - 
 # 1100 - i2 Battery_0, P4, Spark, Mavic Battery Upgrade
