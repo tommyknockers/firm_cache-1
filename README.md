@@ -62,6 +62,7 @@ because the second number value "0100" is the Module #.
 0106 - CAMFPGA (XLNX), XiLinx CAM FPGA? 
 0305 - P4, i2 FlyCtrl_Loader, Spark, Mavic FC Loader Upgrade
 0306 - P4P, P4, i2 FlyCtrl, Spark, Mavic FC APP Upgrade
+0400 - P4P, P4, Spark, Mavic Gimbal Upgrade
 0401 - P4P, P4 Gimbal 5223#1, i2 Gimbal_ESC Upgrade
 0402 - P4P, P4 Gimbal 5223 #2, i2 SSD_Controller Upgrade
 0404 - FPV_Gimbal Upgrade
