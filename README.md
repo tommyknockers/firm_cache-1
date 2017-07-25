@@ -46,7 +46,7 @@ The naming convention is as follows:
 #### How to use the list
 
 The 1st value in the file name is the Model.      
-The 2nd the first value is what the module effects.      
+The 2nd value is what the module effects.      
 The following files are all related to "Camera Upgrade" for the respective model
 because the second number value 0100 is the Module #.    
 ```
