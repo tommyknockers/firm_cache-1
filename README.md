@@ -37,7 +37,7 @@ MD5 (V01.00.0100_Spark_unknown/rc002.cfg) = 0c4e8d7ae113e94a761955abaa803515
 
 ```
 
-### List of the Modules and What The Effect
+### List of the Modules and What they Effect
 
 Individual .cfg.sig files can be thought of as individual sections or modules within the entire firmware.
 The naming convention is as follows: 
