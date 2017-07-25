@@ -39,7 +39,7 @@ MD5 (V01.00.0100_Spark_unknown/rc002.cfg) = 0c4e8d7ae113e94a761955abaa803515
 
 ### List of the Modules and What they Effect
 
-Individual .cfg.sig files can be thought of as individual sections or modules within the entire firmware.
+Individual .cfg.sig files can be thought of as individual sections or modules within the entire firmware.   
 The naming convention is as follows: 
 `<model>_<module>_<version>_<date>.fw.sig`  
 
@@ -47,7 +47,7 @@ The naming convention is as follows:
 
 In the following list, **0100** is a Camera Upgrade. 
 The following files are all related to "Camera Upgrade" for the respective model
-because the second number value for module is "0100"
+because the second number value "0100" is the Module #.
 ```
 - MD5 (wm220_0100_v02.00.55.69_20161215.pro.fw.sig)
 - MD5 (wm330_0100_v01.19.52.66_20160623.fw.sig)
