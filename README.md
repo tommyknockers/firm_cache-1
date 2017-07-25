@@ -45,16 +45,30 @@ The naming convention is as follows:
 
 #### How to use the list
 
-In the following list, **0100** is a Camera Upgrade. 
+The 1st value in the file name is the Model.      
+The 2nd the first value is what the module effects.      
 The following files are all related to "Camera Upgrade" for the respective model
-because the second number value "0100" is the Module #.
+because the second number value 0100 is the Module #.    
 ```
 - MD5 (wm220_0100_v02.00.55.69_20161215.pro.fw.sig)
 - MD5 (wm330_0100_v01.19.52.66_20160623.fw.sig)
 - MD5 (wm331_0100_v01.04.15.46_20170317.pro.fw.sig)
 - etc.
 ```
-| Module # -  Models  -  Function|
+
+#### Model #s
+
+|Number (first value in file name) =  Model |
+|:------------------------------------------|
+wm100    =  Spark
+wm220    =  Mavic
+wm220_gl =  Goggles 
+GL200A   =  GL200A # Mavic Controller
+wm330    =  P4
+wm331    =  P4P
+wm620    =  Inspire2
+
+| Module # -  Models that have a file containg this Module  -  Module Function|
 |:----------------------------|
 0100 - P4P, P4, i2, Mavic Camera Upgrade
 0101 - P4, Mavic Camera Loader Upgrade
@@ -90,17 +104,6 @@ because the second number value "0100" is the Module #.
 2801 - Mavic modem/arm/dsp/gnd/uav "upgrade file" (unencrypted)
 2803 -  
 2807 - Mavic modem/arm/dsp/gnd/uav "upgrade file" (unencrypted)
-
-#### Model #s
-|Number (first value in file name) =  Model |
-|:------------------------------------------|
-wm100    =  Spark
-wm220    =  Mavic
-wm220_gl =  Goggles 
-GL200A   =  GL200A # Mavic Controller
-wm330    =  P4
-wm331    =  P4P
-wm620    =  Inspire2
 
 ### Normal fw.sig files
 ```
