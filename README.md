@@ -45,21 +45,35 @@ The naming convention is as follows:
 
 #### How to use the list
 
-In the following list, **0100** is a Camera Upgrade. 
+The 1st value in the file name is the Model.      
+The 2nd value is what the module effects.      
 The following files are all related to "Camera Upgrade" for the respective model
-because the second number value "0100" is the Module #.
+because the second number value 0100 is the Module #.    
 ```
 - MD5 (wm220_0100_v02.00.55.69_20161215.pro.fw.sig)
 - MD5 (wm330_0100_v01.19.52.66_20160623.fw.sig)
 - MD5 (wm331_0100_v01.04.15.46_20170317.pro.fw.sig)
 - etc.
 ```
-| Module # -  Models  -  Function|
+
+#### Model #s
+
+|Number (first value in file name) =  Model |
+|:------------------------------------------|
+wm100    =  Spark
+wm220    =  Mavic
+wm220_gl =  Goggles 
+GL200A   =  GL200A # Mavic Controller
+wm330    =  P4
+wm331    =  P4P
+wm620    =  Inspire2
+
+| Module # -  Models that have a file containg this Module  -  Module Function|
 |:----------------------------|
-0100 - P4P, P4, i2, Mavic Camera Upgrade  
-0101 - P4, Mavic Camera Loader Upgrade  
-0104 - P4P Lens_Controller Upgrade  
-0106 -
+0100 - P4P, P4, i2, Mavic Camera Upgrade
+0101 - P4, Mavic Camera Loader Upgrade
+0104 - P4P Lens_Controller Upgrade
+0106 - CAMFPGA (XLNX), XiLinx CAM FPGA? 
 0305 - P4, i2 FlyCtrl_Loader, Spark, Mavic FC Loader Upgrade
 0306 - P4P, P4, i2 FlyCtrl, Spark, Mavic FC APP Upgrade
 0400 - P4P, P4, Spark, Mavic Gimbal Upgrade
@@ -71,23 +85,25 @@ because the second number value "0100" is the Module #.
 0600 - GLB200A MCU_051_gnd Upgrade (not encrypted)
 0601 - Goggles MCU_031_gls Upgrade
 0603 - Goggles MCU_051_gls Upgrade
-0801 - P4P ?
-0802 - P4P ?
-0803 - P4P ?
-0804 - P4P ?
-0805 - P4P ?
+0801 - Android recovery ROM?
+0802 - Modvidius ma2155 VPU firmware, "DJI_IMX377" (CMOS image sensor) firmware, Veri Silicon Hantaro Video IP encoder/decoder ?
+0803 - 
+0804 - "System Initialized" ?
+0805 - upgrade.zip (calibration for VPS?)
 0900 - P4 OFDM, P4P, i2 LightBridge Upgrade
-0905 - P4P ?
-0907 - 
+0905 - NFZ Database (nfz.db and bfz.sig)
+0907 - Mavic modem/arm/dsp/gnd/uav "upgrade file" (unencrypted)
 1100 - i2 Battery_0, P4, Spark, Mavic Battery Upgrade
 1101 - i2 Battery_1 Upgrade
 1200 - P4, i2, Spark, Mavic ESC0 Upgrade
 1201 - P4, i2, spark, Mavic ESC1 Upgrade
 1202 - P4, i2, Spark, Mavic ESC2 Upgrade
 1203 - P4, i2, Spark, Mavic ESC3 Upgrade
-1301 -
+1301 - OTA.zip?
 1407 - GLB200A modem/arm/dsp/gnd/uav "upgrade file" (unencrypted)
-
+2801 - Mavic modem/arm/dsp/gnd/uav "upgrade file" (unencrypted)
+2803 -  
+2807 - Mavic modem/arm/dsp/gnd/uav "upgrade file" (unencrypted)
 
 ### Normal fw.sig files
 ```
