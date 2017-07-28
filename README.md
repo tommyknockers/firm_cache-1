@@ -5,7 +5,6 @@ Accompanying .bin files can be located here: https://github.com/MAVProxyUser/dji
 
 <img src=https://media.giphy.com/media/wNR8ZhO4fObRu/giphy.gif>
 
-```
 
 ### List of the Modules and What they Effect
 
@@ -74,7 +73,7 @@ wm620    =  Inspire2
 2801 - Mavic modem/arm/dsp/gnd/uav "upgrade file" (unencrypted)
 2803 -  
 2807 - Mavic modem/arm/dsp/gnd/uav "upgrade file" (unencrypted)
-```
+
 
 ### #DeejayeyeHackingClub information repos aka "The OG's" (Original Gangsters)
 
