@@ -8,7 +8,7 @@ Accompanying .bin files can be located here: https://github.com/MAVProxyUser/dji
 
 ### List of the Modules and What they Effect
 
-Individual .cfg.sig files can be thought of as individual sections or modules within the entire firmware.   
+Individual .fw.sig files can be thought of as individual sections or modules within the entire firmware.   
 The naming convention is as follows: 
 `<model>_<module>_<version>_<date>.fw.sig`  
 
