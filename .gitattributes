@@ -1,1 +1,2 @@
 *.sig filter=lfs diff=lfs merge=lfs -text
+*.fw filter=lfs diff=lfs merge=lfs -text
